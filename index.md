@@ -1,3 +1,9 @@
+# Zhixuan Shao() @ University of California, Davis
+Name: Zhixuan Shao (邵智轩)
+Phone: +1 530-407-6792
+Email: zhxshao@ucdavis.edu
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KillingVectorField/ZhixuanShao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
