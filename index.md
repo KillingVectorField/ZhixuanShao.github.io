@@ -1,8 +1,6 @@
 # Zhixuan Shao (邵智轩) @ University of California, Davis
 
-![](https://statistics.ucdavis.edu/sites/g/files/dgvnsk5166/files/styles/sf_profile/public/images/person/SHAO%2C%20Zhixuan.jpg?h=3bffa19b&itok=YvegL7Zo){:height="30%" width="30%"}
-
- <img src="https://statistics.ucdavis.edu/sites/g/files/dgvnsk5166/files/styles/sf_profile/public/images/person/SHAO%2C%20Zhixuan.jpg?h=3bffa19b&itok=YvegL7Zo" width = "300" height = "200" />
+<img src="https://statistics.ucdavis.edu/sites/g/files/dgvnsk5166/files/styles/sf_profile/public/images/person/SHAO%2C%20Zhixuan.jpg?h=3bffa19b&itok=YvegL7Zo" width = "224" height = "250" />
 
 Phone: +1 530-407-6792
 
