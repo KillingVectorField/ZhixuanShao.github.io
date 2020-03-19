@@ -2,6 +2,8 @@
 
 ![](https://statistics.ucdavis.edu/sites/g/files/dgvnsk5166/files/styles/sf_profile/public/images/person/SHAO%2C%20Zhixuan.jpg?h=3bffa19b&itok=YvegL7Zo){:height="30%" width="30%"}
 
+ <img src="https://statistics.ucdavis.edu/sites/g/files/dgvnsk5166/files/styles/sf_profile/public/images/person/SHAO%2C%20Zhixuan.jpg?h=3bffa19b&itok=YvegL7Zo" width = "300" height = "200" />
+
 Phone: +1 530-407-6792
 
 Email: zhxshao@ucdavis.edu
