@@ -4,7 +4,7 @@
 
 * Phone: +1 530-407-6792
 * Email: zhxshao@ucdavis.edu
-* Github: https://github.com/KillingVectorField
+* Github: <https://github.com/KillingVectorField>
 
 ## Education
 * **Ph.D. in Statistics**, (Expected 2024), University of California, Davis.
