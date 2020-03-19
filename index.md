@@ -33,5 +33,5 @@
 Proficient in Python, R, Mathematica, Familiar with C++, JAVA
 
 ## About me
-I love to play go (围棋)! Please don't hesitate to play with me if you also like it!
+I love to play [Go](https://en.wikipedia.org/wiki/Go_(game)) (围棋)! Please don't hesitate to play with me if you also like it!
 
