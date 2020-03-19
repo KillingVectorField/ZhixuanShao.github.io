@@ -6,6 +6,8 @@ Phone: +1 530-407-6792
 
 Email: zhxshao@ucdavis.edu
 
+Github: https://github.com/KillingVectorField
+
 ## Education
 * Expected to graduate in 2024, Ph.D. in Statistics, University of California, Davis.
 * B.S. in Physics, 2019, Peking University.
@@ -15,4 +17,4 @@ Email: zhxshao@ucdavis.edu
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
 
 ## Projects
-* STA 220 final project--*Who Got Accepted by My Dream School?*, Winter 2020
+* STA 220 final project--[Who Got Accepted by My Dream School?](https://yidongzhou.github.io/projects.html), Winter 2020
