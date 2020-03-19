@@ -1,7 +1,12 @@
-# Zhixuan Shao() @ University of California, Davis
-Name: Zhixuan Shao (邵智轩)
+# Zhixuan Shao (邵智轩) @ University of California, Davis
+
 Phone: +1 530-407-6792
+
 Email: zhxshao@ucdavis.edu
+
+## Education
+* Expected to graduate in 2024, Ph.D. in Statistics, University of California, Davis.
+* B.S. in Physics, 2019, Peking University.
 
 
 ## Welcome to GitHub Pages
