@@ -17,5 +17,11 @@
 ## Projects
 * STA 220 final project--[Who Got Accepted by My Dream School?](https://yidongzhou.github.io/projects.html), Winter 2020
 
+## Research Experiences
+* Causal Inference with Outcomes Truncated by Death, Peking University, supervised by Prof. Xiao-Hua Zhou | Mar 2018 – July 2018
+  + Improved the method ([Wang et al., Identification and estimation of causal effects with outcomes truncated by death, Biometrika, 2017](https://doi.org/10.1093/biomet/asx034)) with its optimization steps
+  + Derived the asymptotic variance of the estimator, which showed good coverage property according to simulation results.
+  + Developed an R Package (named [tbd](https://cran.r-project.org/web/packages/tbd/index.html) on CRAN), and applied it to real clinical data. A related paper is in preparation.
+
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
