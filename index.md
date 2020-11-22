@@ -11,6 +11,7 @@
 * **B.S. in Physics**, 2019, Peking University.
 
 ## Teaching
+* STA 206--Stat Methods for Research I (linear statistical models)
 * STA 013--Elementary Statistics, Spring 2020
 * STA 032--Gateway to Data Science, Winter 2020
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
