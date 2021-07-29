@@ -29,9 +29,14 @@
   + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning
   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
 
+## Internship
+* **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
+  + User clustering using community detection and node embedding techniques. Made use of in-game friend relations as well as user profiles. Identify small groups that always team up.
+  + Identify "grass cheats" in PUBG Mobile.
+
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
 
 ## Skills
-Proficient in Python, R, Mathematica, Familiar with C++, JAVA
+Proficient in Python, R, Familiar with C++, SQL, Mathematica
 
