@@ -31,8 +31,8 @@
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
-  + User clustering using community detection and node embedding techniques. Made use of in-game friend relations as well as user profiles. Identify small groups that always team up.
-  + Identify "grass cheats" in PUBG Mobile.
+  + User clustering using community detection and node embedding techniques. Made use of in-game friend relations as well as user attributes. Identify small groups that always team up.
+  + Identify stealed accounts in PUBG mobile. Compared features of normal and stealed accounts. Build an XGBoost classifier based on user features in consecutive weeks. 
 
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
