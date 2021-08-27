@@ -30,9 +30,9 @@
   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
 * **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
   + Approximate the distribution of various functions of random networks, by first estimating the network generating model and then sampling from the estimated model.
-  + Especially interesting for *local* statistics, of which the noise in a single observation is large. By estimating the work we can essentially use the information from the rest of the network.
+  + Especially interesting for *local* statistics, of which the noise in a single observation is large. By estimating the work we can essentially use information from the rest of the network.
   + Discover settings and conditions under which network samples from the estimated model are likely to recover the true distribution
-  + Observed bias in many functions, e.g., triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
+  + Observed boostrap bias for many functions, e.g., triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
