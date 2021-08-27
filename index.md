@@ -31,8 +31,11 @@
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
-  + User clustering using community detection and node embedding techniques. Made use of in-game friend relations as well as user attributes. Identify small groups that always team up. Define user affinity based on the embeddings.
-  + Identify stealed accounts in PUBG mobile. Compared features of normal and stealed accounts. Build an XGBoost classifier based on user features in consecutive weeks. To enhance the performance with scarce postive labels, we took into account the clustering property within stealed accounts by adding user affinity into the model.
+  + **User clustering using community detection and node embedding techniques.** Made use of in-game friend relations as well as user attributes. We were able to
+    - Identify small groups that always team up.
+    - Discover user clusters with common features, e.g. city.
+    - Define affinity between users based on the embeddings.
+  + **Identify stealed accounts in PUBG mobile.** Compared features of normal and stealed accounts. Build an XGBoost classifier based on user features in consecutive weeks. We also noticed *clustering tendency* within stealed accounts. By adding user affinity into the model, we enhanced the performace significantly, especially when positive labels are rare.
 
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
