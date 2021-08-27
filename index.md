@@ -31,7 +31,7 @@
 * **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
   + Estimate the distribution of certain functions of random networks by parametric bootstrap, where we first estimate the network generating model and then sample networks from the estimated model.
   + Focus particularly on *local* statistics, of which the noise in a single observation is large. By estimating the model we essentially use information from the rest of the network.
-  + Discover settings and conditions under which bootstrap samples are likely to approximate the true distribution
+  + Discover settings and conditions under which bootstrap approximation is reliable
   + Observed boostrap bias for many functions, e.g., triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
 
 ## Internship
