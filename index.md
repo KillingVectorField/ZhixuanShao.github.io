@@ -36,7 +36,7 @@
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
-  + **User clustering using community detection and node embedding techniques.** Made use of in-game friend relations as well as user attributes. We were able to
+  + **User clustering using community detection and node embedding techniques.** Based on in-game friend relations as well as user attributes data, we were able to
     - Identify small groups that always team up.
     - Discover user clusters with common features, e.g. city.
     - Define affinity between users based on the embeddings.
