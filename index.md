@@ -40,8 +40,8 @@
     - Identify small groups that always team up.
     - Discover user clusters with common features, e.g. city.
     - Define affinity between users based on the embeddings.
-  + **Identify stolen accounts in PUBG mobile.** Compared features of normal and stolen accounts. Build an XGBoost classifier based on user features in consecutive weeks. We also noticed *clustering tendency* within stolen accounts. By adding user affinity into the model, we enhanced the performace significantly, especially when positive labels are rare.
-
+  + **Identify stolen accounts in PUBG mobile.** Build an XGBoost classifier based on user features in consecutive weeks. We also noticed *clustering tendency* within stolen accounts. Enhanced the performance significantly by adding user affinity and node embedding into the model, especially when positive labels are rare.
+  
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
 
