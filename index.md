@@ -29,10 +29,10 @@
   + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning
   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
 * **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
-  + Estimate the distribution of certain functions of random networks by parametric bootstrap, where we first estimate the network generating model and then sample networks from the estimated model.
+  + Estimate the distribution of certain statistics on random networks by parametric bootstrap.
   + Focus particularly on *local* statistics, of which the noise in a single observation is large. By estimating the model we essentially use information from the rest of the network.
   + Discover settings and conditions under which bootstrap approximation is reliable
-  + Observed boostrap bias for some functions, such as triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
+  + Observed bootstrap bias for some functions, such as triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
