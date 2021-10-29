@@ -29,10 +29,9 @@
   + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning
   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
 * **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
-  + Estimate the distribution of various statistics on random networks by parametric bootstrap.
-  + Focus particularly on *local* statistics, of which the noise in a single observation is large. By estimating the model we essentially use information from the rest of the network.
-  + Discover settings and conditions under which bootstrap approximation is reliable
-  + Observed bootstrap bias for some functions, such as triangle counts and clustering coefficients. Propose a de-biasing method by a second-level bootstrap
+  + Analogue of the classical parametric bootstrap method on random networks
+  + Noise can be large for a single observation of the network. Estimating the model helps improve accuracy for confidence intervals.
+  + Bias Reduction by a second-level bootstrap
 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
@@ -40,7 +39,7 @@
     - Identify small groups that always team up.
     - Discover user clusters with common features, e.g. city.
     - Define affinity between users based on the embeddings.
-  + **Identify stolen accounts in PUBG mobile.** Build an XGBoost classifier based on user features in consecutive weeks. We also noticed *clustering tendency* within stolen accounts. Enhanced the performance significantly by adding user affinity and node embedding into the model, especially when positive labels are rare.
+  + **Stolen accounts detection in PUBG mobile.** Built an XGBoost classifier based on user features in consecutive weeks. Also noticed clustering tendency within stolen accounts. Enhanced the performance by adding user affinity and node embedding into the model, especially when positive labels are rare.
   
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
