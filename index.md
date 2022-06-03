@@ -11,12 +11,12 @@
 * **B.S. in Physics**, 2019, Peking University.
 
 ## Teaching
+* STA 142B--Statistical Learning II (unsupervised learning), Spring 2022
 * STA 231 High dimensional statistics, Spring 2021
 * STA 206--Stat Methods for Research I (linear statistical models), Fall 2020
 * STA 013--Elementary Statistics, Spring 2020, Winter 2021
 * STA 032--Gateway to Data Science, Winter 2020
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
-* STA 142B--Statistical Learning II (unsupervised learning)
 
 ## Projects
 * STA 220 final project--[Who Got Accepted by My Dream School?](https://yidongzhou.github.io/projects.html), Winter 2020
