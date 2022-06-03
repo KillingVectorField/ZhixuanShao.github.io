@@ -16,6 +16,7 @@
 * STA 013--Elementary Statistics, Spring 2020, Winter 2021
 * STA 032--Gateway to Data Science, Winter 2020
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
+* STA 142B--Statistical Learning II (unsupervised learning)
 
 ## Projects
 * STA 220 final project--[Who Got Accepted by My Dream School?](https://yidongzhou.github.io/projects.html), Winter 2020
