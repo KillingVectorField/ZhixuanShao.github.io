@@ -49,5 +49,5 @@
 * **Teaching Recognition Award**, University of California, Davis, 2021-2022
 
 ## Skills
-Proficient in Python, R, Git, Familiar with C++, SQL, Mathematica
+Proficient in Python, R, Familiar with Git, C++, SQL, Mathematica
 
