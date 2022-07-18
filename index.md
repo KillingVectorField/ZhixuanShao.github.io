@@ -52,3 +52,7 @@
 ## Skills
 Proficient in Python, R, Familiar with Git, C++, SQL, Mathematica
 
+## Activities
+Statistics in the Big Data Era Workshop, Poster Session, Berkeley, June 2022
+
+<img src="Berkeley_poster_session.jpg" width = "768" height = "1024" />
