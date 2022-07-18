@@ -30,8 +30,9 @@
   + Developed an R Package (named [tbd](https://cran.r-project.org/web/packages/tbd/index.html) on CRAN), and applied it to real clinical data.
 * **Causal Structure Learning**, University of Washington, supervised by Prof. Ali Shojaie | July 2018 – Aug 2018
   + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning
-  + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
-
+<!--   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
+ -->
+ 
 ## Internship
 * **Tencent IEG, Lightspeed & Quantum Studios Group**, Summer 2021
   + **User clustering using community detection and node embedding techniques** 
