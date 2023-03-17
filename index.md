@@ -30,8 +30,8 @@
   + Improved the method ([*Wang et al., Identification and estimation of causal effects with outcomes truncated by death, Biometrika, 2017*](https://doi.org/10.1093/biomet/asx034)) with its optimization steps
   + Derived the asymptotic variance of the estimator, which showed good coverage property according to simulation results.
   + Developed an R Package (named [tbd](https://cran.r-project.org/web/packages/tbd/index.html) on CRAN), and applied it to real clinical data.
-<!-- * **Causal Structure Learning**, University of Washington, supervised by Prof. Ali Shojaie | July 2018 – Aug 2018
-  + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning -->
+<!-- * **Causal Structure Learning**, University of Washington, supervised by Prof. Ali Shojaie | July 2018 – Aug 2018 -->
+<!--   + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning -->
 <!--   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
  -->
  
