@@ -13,7 +13,7 @@
 * STA 142B--Statistical Learning II (unsupervised learning), Spring 2022, Spring 2023
 * STA 231--High dimensional statistics (PhD level), Spring 2021
 * STA 206--Linear statistical models (master level), Fall 2020
-* STA 200--Mathematical Statistics (master level), Winter 2023
+* STA 200B--Mathematical Statistics (master level), Winter 2023
 * STA 013--Elementary Statistics, Spring 2020, Winter 2021
 * STA 032--Gateway to Data Science, Winter 2020
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
