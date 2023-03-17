@@ -6,13 +6,14 @@
 * Github: <https://github.com/KillingVectorField>
 
 ## Education
-* **Ph.D. in Statistics**, (Expected 2024), University of California, Davis.
+* **Ph.D. in Statistics**, University of California, Davis.
 * **B.S. in Physics**, 2019, Peking University.
 
 ## Teaching
-* STA 142B--Statistical Learning II (unsupervised learning), Spring 2022
-* STA 231 High dimensional statistics, Spring 2021
-* STA 206--Stat Methods for Research I (linear statistical models), Fall 2020
+* STA 142B--Statistical Learning II (unsupervised learning), Spring 2022, Spring 2023
+* STA 231--High dimensional statistics (PhD level), Spring 2021
+* STA 206--Linear statistical models (master level), Fall 2020
+* STA 200--Mathematical Statistics (master level), Winter 2023
 * STA 013--Elementary Statistics, Spring 2020, Winter 2021
 * STA 032--Gateway to Data Science, Winter 2020
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
@@ -24,12 +25,13 @@
 * **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
   + Analogue of the classical parametric bootstrap method on random networks
   + Bias reduction and accuracy improvement by a second-level bootstrap
+* **Spectral properties of overfitted SBM**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
 * **Causal Inference with Outcomes Truncated by Death**, Peking University, supervised by Prof. Xiao-Hua Zhou | Mar 2018 – July 2018
   + Improved the method ([*Wang et al., Identification and estimation of causal effects with outcomes truncated by death, Biometrika, 2017*](https://doi.org/10.1093/biomet/asx034)) with its optimization steps
   + Derived the asymptotic variance of the estimator, which showed good coverage property according to simulation results.
   + Developed an R Package (named [tbd](https://cran.r-project.org/web/packages/tbd/index.html) on CRAN), and applied it to real clinical data.
-* **Causal Structure Learning**, University of Washington, supervised by Prof. Ali Shojaie | July 2018 – Aug 2018
-  + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning
+<!-- * **Causal Structure Learning**, University of Washington, supervised by Prof. Ali Shojaie | July 2018 – Aug 2018
+  + Tried to seek the lower bound of the volume of unfaithful distributions when using the [Reduced PC-Algorithm](https://arxiv.org/abs/1806.06209) for causal structure learning -->
 <!--   + Considered an alternative “top-down” approach of the Reduced PC-Algorithm
  -->
  
@@ -44,13 +46,14 @@
   
 <!--   Built an XGBoost classifier based on user features in consecutive weeks. Upon noticing the clustering tendency within stolen accounts, we enhanced the performance by adding user affinity embedding into the model. -->
 * **AppLovin Ad-Tech**, Summer 2022
+  + Hyperparameter tuning on bidder models (offline experiments and A/B testing)
   
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
 * **Teaching Recognition Award**, University of California, Davis, 2021-2022
 
 ## Skills
-Proficient in Python, R, Familiar with Git, C++, SQL, Mathematica
+Proficient in Python, R, Familiar with C++, SQL, Mathematica
 
 ## Activities
 Statistics in the Big Data Era Workshop, Poster Session, Berkeley, June 2022
