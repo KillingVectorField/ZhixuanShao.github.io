@@ -45,9 +45,11 @@
     - Define affinity between users based on the embeddings. -->
   
 <!--   Built an XGBoost classifier based on user features in consecutive weeks. Upon noticing the clustering tendency within stolen accounts, we enhanced the performance by adding user affinity embedding into the model. -->
-* **AppLovin Ad-Tech**, Summer 2022
+* **AppLovin**, Summer 2022
   + Hyperparameter tuning on bidder models (offline experiments and A/B testing)
-  
+* **Pinterest**, Summer 2023
+  + Experiments on oCPM model structures
+
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
 * **Teaching Recognition Award**, University of California, Davis, 2021-2022
