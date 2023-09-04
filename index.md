@@ -48,7 +48,7 @@
 * **AppLovin**, Summer 2022
   + Hyperparameter tuning on bidder models (offline experiments and A/B testing)
 * **Pinterest**, Summer 2023
-  + Experiments on oCPM model structures
+  + Offline and online experiment with [DHEN](https://arxiv.org/abs/2203.11014) architecture on oCPM models
 
 ## Honors
 * **Excellent Research Award**, Peking University, Oct 2018
