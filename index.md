@@ -19,7 +19,7 @@
 * STA 100--Applied Statistics for Biological Sciences, Fall 2019
 
 ## Research Experiences
-* **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
+* **Parametric Bootstrap on Networks**, University of California, Davis, advisor: Prof. Can M. Le | 2021 - 2023
   + Analogue of the classical parametric bootstrap method on random networks
   + Bias reduction and accuracy improvement by a second-level bootstrap
 * **Estimating the Number of Communities under Sparsity and Degree Heterogeneity**, University of California, Davis, advisor: Prof. Can M. Le | Ongoing
